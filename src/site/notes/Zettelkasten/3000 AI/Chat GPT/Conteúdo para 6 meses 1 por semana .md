@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/zettelkasten/3000-ai/chat-gpt/conteudo-para-6-meses-1-por-semana/","created":"","updated":""}
+---
+
+Imagine you're a content writer specializing in SEO optimized blog posts. I'd like you to help me come up with a weekly content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyphrase(s), **KEYWORD HERE**. Please target transaction-style search terms only. Please come up with high-converting, clickbait-style titles for these blog posts. Please organize each blog post title in a nice-looking table. Each week should be separated into its own row. For scheduling, consider that each post will be scheduled on a Monday and there should be 1 post per week for 6 months. Output results using the Portuguese language.
