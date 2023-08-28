@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home/"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-
+	
 # Últimas edições
 
 | File                                                                                                                                                               | Criado                     | Modificado                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | -------------------------- |
-| [[Home\|Home]]                                                                                                                                                  | 2:57 AM - August 22, 2023  | 1:36 AM - August 28, 2023  |
+| [[Home\|Home]]                                                                                                                                                  | 2:57 AM - August 22, 2023  | 1:40 AM - August 28, 2023  |
 | [[03 AI/Stable Diffusion/Como atualizar A1111\|Como atualizar A1111]]                                                                                           | 11:17 PM - August 23, 2023 | 3:02 AM - August 26, 2023  |
 | [[Pentest/Básicos/Estágios da penetração\|Estágios da penetração]]                                                                                              | 1:30 AM - August 22, 2023  | 1:00 AM - August 25, 2023  |
 | [[Pentest/Serviços WEB/SMB/Nmap script para enumerar SMB Share\|Nmap script para enumerar SMB Share]]                                                           | 1:30 AM - August 22, 2023  | 12:37 AM - August 23, 2023 |
