@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pessoal/programas-e-recursos/index/","noteIcon":""}
 ---
 
-# Desktop
+# 🖥 Desktop
 
 ## Downloads
  
@@ -10,7 +10,7 @@
 - Gallery-dl
 - Yt-dl
 
-## Monitoramento
+## 👁 Monitoramento
 - Follow That Page
 - Inoreader
 - Meu próprio script em python
