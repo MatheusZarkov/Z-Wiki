@@ -4,14 +4,14 @@
 
 # Desktop
 
-> [!Note] Downloads
-> 
-> Jdownloader
-> Gallery-dl
-> Yt-dl
+## Downloads
+ 
+- Jdownloader
+- Gallery-dl
+- Yt-dl
 
-> [!Note] Monitoramento
-> Follow That Page
-> Inoreader
-> Meu próprio script em python
+## Monitoramento
+- Follow That Page
+- Inoreader
+- Meu próprio script em python
 
