@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pessoal/programas-e-recursos/index/","noteIcon":""}
 ---
 
-# 🖥 Desktop
+## 🖥 <mark style="background: #FF5582A6;">Desktop</mark>
 
 ## Downloads
  
@@ -10,8 +10,9 @@
 - Gallery-dl
 - Yt-dl
 
-## 👁 Monitoramento
+## 👁 <mark style="background: #FF5582A6;">Monitoramento</mark>
 - Follow That Page
 - Inoreader
 - Meu próprio script em python
+
 
