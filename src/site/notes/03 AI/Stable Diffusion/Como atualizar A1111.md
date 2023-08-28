@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-ai/stable-diffusion/como-atualizar-a1111/"}
+{"dg-publish":true,"permalink":"/03-ai/stable-diffusion/como-atualizar-a1111/","noteIcon":""}
 ---
 
 Easy auto updates! In your folder right click on "webui-user.bat" And click edit. (I use notepad) Add git pull between the last to lines "Set" and "Call". Like bellow!
