@@ -8,7 +8,7 @@ Easy auto updates! In your folder right click on "webui-user.bat" And click edit
 Make bigger images with --medvram  
 Auto lunch Web up with --autolaunch
 
-```sh
+```shell
 set COMMANDLINE_ARGS= --medvram --autolaunch
 git pull
 call webui.bat
@@ -16,7 +16,7 @@ call webui.bat
 
 Depois retorna para 
 
-```sh
+```shell
 @echo off
 
 set PYTHON=
