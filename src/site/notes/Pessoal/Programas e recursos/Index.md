@@ -2,17 +2,18 @@
 {"dg-publish":true,"permalink":"/pessoal/programas-e-recursos/index/","noteIcon":""}
 ---
 
-## 🖥 <mark style="background: #FF5582A6;">Desktop</mark>
+## 🖥 <span style='color:#8854d0'>Desktop</span>
 
-## Downloads
+## <span style='color:#fa8231'>Downloads</span>
  
 - <span style='color:#20bf6b'>Jdownloader</span>
-- Gallery-dl
-- Yt-dl
+- <span style='color:#20bf6b'>Gallery-dl</span>
+- <span style='color:#20bf6b'>Yt-dl</span>
 
-## 👁 <mark style="background: #FF5582A6;">Monitoramento</mark>
-- Follow That Page
-- Inoreader
-- Meu próprio script em python
+## 👁 <span style='color:#8854d0'>Monitoramento</span>
+
+- <span style='color:#20bf6b'>Follow That Page</span>
+- <span style='color:#20bf6b'>Inoreader</span>
+- <span style='color:#20bf6b'>Changedetection.io</span>
 
 
