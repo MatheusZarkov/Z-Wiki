@@ -6,7 +6,7 @@
 
 ## Downloads
  
-- Jdownloader
+- <span style='color:#20bf6b'>Jdownloader</span>
 - Gallery-dl
 - Yt-dl
 
